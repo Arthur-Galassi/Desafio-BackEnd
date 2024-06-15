@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEDU36Ip9cU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariela\\Desktop\\.net\\Desafio-BackEnd\\Vehicle.Management.Api\\Vehicle.Management.Infra.IoC\\Vehicle.Management.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariela\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ariela\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ariela\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

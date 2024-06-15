@@ -1,0 +1,16 @@
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\bin\Debug\net8.0\Vehicle.Management.Infra.Data.deps.json
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\bin\Debug\net8.0\Vehicle.Management.Infra.Data.dll
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\bin\Debug\net8.0\Vehicle.Management.Infra.Data.pdb
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\bin\Debug\net8.0\Vehicle.Menagement.Domain.dll
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\bin\Debug\net8.0\Vehicle.Menagement.Domain.pdb
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.AssemblyInfo.cs
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.sourcelink.json
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle..1B04742C.Up2Date
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.dll
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\refint\Vehicle.Management.Infra.Data.dll
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\Vehicle.Management.Infra.Data.pdb
+C:\Users\Ariela\Desktop\.net\Desafio-BackEnd\Vehicle.Management.Api\Vehicle.Management.Infra.Data\obj\Debug\net8.0\ref\Vehicle.Management.Infra.Data.dll
